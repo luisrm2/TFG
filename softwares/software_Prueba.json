@@ -1,0 +1,26 @@
+[
+  {
+    "name": "apache2",
+    "version": "2.4.49"
+  },
+  {
+    "name": "python2.7",
+    "version": "2.7.17"
+  },
+  {
+    "name": "openvpn",
+    "version": "2.4.0"
+  },
+  {
+    "name": "wireshark",
+    "version": "3.2.0"
+  },
+  {
+    "name": "vim",
+    "version": "8.0"
+  },
+  {
+    "name": "virtualbox",
+    "version": "6.1.0"
+  }
+]
